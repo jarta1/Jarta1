@@ -1,9 +1,13 @@
-<h1>unknusr</h1>
+<h1 align='center'>unknusr 👋</h1>
 
-Jack
-<br>
-15
+- Jack
+- 15
 
-<h2 align='center'>What am I working on?</h2>
+<h2 align='center'>What am I currently working on?</h2>
 
-[Special Discord Bot](https://github.com/unknusr/Special-Discord-Bot)
+- Discord Server Creator Bot
+
+
+<h2 align='center'>Contact Me</h2>
+
+- Discord: unknusr
