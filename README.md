@@ -1,5 +1,5 @@
 ### 👋 Introduction
-My name is unknusr and I am 15 years old.
+My name is unknusr and I am 15 years old. I like creating multi-tools for many purposes.
 
 
 ### 👷‍♂️ Current Projects
