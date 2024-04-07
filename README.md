@@ -17,9 +17,8 @@ My name is unknusr and I am 15 years old.
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 
-### 🔗 Links
-[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/845270168221646889)
-[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github/unknusr)
+### 💻 Discord Profile
+[![Discord Presence](https://lanyard.cnrad.dev/api/845270168221646889?&borderRadius=20px&idleMessage=Probably%20sleeping)](https://discord.com/users/845270168221646889)
 
 
 ### 📊 Stats
