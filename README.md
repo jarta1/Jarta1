@@ -3,7 +3,7 @@ My name is Jack and I am 15 years old.
 
 
 ### 👷‍♂️ _Current Projects_
-![krma](https://img.shields.io/badge/krma%20roleplay-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+![velocity](https://img.shields.io/badge/Velocity%20roleplay-F40552?style=for-the-badge&logo=fivem&logoColor=white)
 
 
 ### 👨‍💻 _Languages_
@@ -26,4 +26,4 @@ My name is Jack and I am 15 years old.
 ### 📊 _Stats_
 ![views](https://komarev.com/ghpvc/?username=unknusr)
 <br>
-![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknusr&theme=github_dark)
+![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kigzee&theme=github_dark)
