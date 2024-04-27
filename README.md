@@ -12,11 +12,9 @@ My name is Jack and I am 15 years old.
 
 
 ### 📲 _Socials_
-[![discord](https://img.shields.io/badge/discord-unknusr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/845270168221646889)
+[![discord](https://img.shields.io/badge/discord-kigzee-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/845270168221646889)
 <br>
-[![github](https://img.shields.io/badge/github-unknusr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syntax-87)
-<br>
-[![telegram](https://img.shields.io/badge/telegram-unknusr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/syntax_87)
+[![github](https://img.shields.io/badge/github-kigzee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kigzee)
 
 
 ### 💻 _Discord Profile_
