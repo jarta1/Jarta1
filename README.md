@@ -1,27 +1,26 @@
 ### 👋 _Introduction_
-My name is Jack and I am 15 years old.
+Hi there, my name is Jartal and I am a Frontend FiveM Developer. I make custom scripts made from scratch alongside another developer.
 
 
 ### 👷‍♂️ _Current Projects_
-![velocity](https://img.shields.io/badge/Velocity%20roleplay-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+[![cyberscripts](https://img.shields.io/badge/Cyber-Scripts-ff002a?style=for-the-badge&logoColor=white)](https://discord.gg/uGbyjKjSJm)
 
 
 ### 👨‍💻 _Languages_
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![html](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 
 ### 📲 _Socials_
-[![discord](https://img.shields.io/badge/discord-kigzee-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/845270168221646889)
+[![discord](https://img.shields.io/badge/discord-Jartal-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/845270168221646889)
 <br>
-[![github](https://img.shields.io/badge/github-kigzee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kigzee)
+[![github](https://img.shields.io/badge/github-Jartal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jarta1)
 
 
 ### 💻 _Discord Profile_
 [![Discord Presence](https://lanyard.cnrad.dev/api/845270168221646889?&borderRadius=20px&idleMessage=Probably%20sleeping)](https://discord.com/users/845270168221646889)
 
 
-### 📊 _Stats_
-![views](https://komarev.com/ghpvc/?username=unknusr)
-<br>
-![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kigzee&theme=github_dark)
+![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jarta1&theme=github_dark)
