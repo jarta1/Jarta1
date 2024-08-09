@@ -1,26 +1,27 @@
-### 👋 _Introduction_
-Hi there, my name is Jartal and I am a Frontend FiveM Developer. I make custom scripts made from scratch alongside another developer.
+<h1 align='center'>Jartal <img width=25px' src='https://github.com/user-attachments/assets/8da69007-211a-4d6b-8dbe-d4c0313a09d6'/> </h1>
+<h3 align='center'> Hello there, my name is Jartal and I am a Frontend FiveM Developer. You can check out my scripts <a href='https://discord.gg/uGbyjKjSJm'>here</a> </h3>
 
 
-### 👷‍♂️ _Current Projects_
-[![cyberscripts](https://img.shields.io/badge/Cyber-Scripts-ff002a?style=for-the-badge&logoColor=white)](https://discord.gg/uGbyjKjSJm)
-
-
-### 👨‍💻 _Languages_
-![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![html](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-### 📲 _Socials_
-[![discord](https://img.shields.io/badge/discord-Jartal-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/845270168221646889)
 <br>
-[![github](https://img.shields.io/badge/github-Jartal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jarta1)
 
+<h3 align='center'> <img width='15px' src='https://github.com/user-attachments/assets/cd4327ea-a649-4a3f-93c8-3748d7bfe233'/> Languages</h3>
 
-### 💻 _Discord Profile_
-[![Discord Presence](https://lanyard.cnrad.dev/api/845270168221646889?&borderRadius=20px&idleMessage=Probably%20sleeping)](https://discord.com/users/845270168221646889)
+<p align='center'>
+<img align='center' width='28px' src='https://github.com/user-attachments/assets/cc6a6d50-216b-4546-b077-feb058cdcdc3'/>
+<img align='center' width='28px' src='https://github.com/user-attachments/assets/7e5687a1-759d-44fa-9a42-672c4961627b'/>
+<img align='center' width='28px' src='https://github.com/user-attachments/assets/a84ac78f-c2cd-4e8e-aec8-7a8f01e5769e'/>
+</p>
 
+<br>
 
-![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jarta1&theme=github_dark)
+<h3 align='center'> <img width='15px' src='https://github.com/user-attachments/assets/a9d1dddc-a2ee-4bc7-8657-9dabf9426e82'/> Contact Me</h3>
+
+<p align='center'>
+<a href='https://discord.com/users/845270168221646889' target='blank'><img align='center' width='28px' src='https://github.com/user-attachments/assets/4ed95080-490a-40fb-9e23-aea03c92a586'/>
+</p>
+
+<br><br>
+
+![stat](https://github-readme-stats.vercel.app/api?username=jarta1&show_icons=true&theme=cobalt)
+<br><br>
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=jarta1&theme=cobalt)
