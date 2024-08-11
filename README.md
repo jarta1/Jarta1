@@ -26,7 +26,5 @@
 <br><br>
 
 <p align='center'>
-<!--   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jarta1&theme=cobalt'/>
-  <br> -->
   <img src='https://github-readme-stats.vercel.app/api?username=jarta1&show_icons=true&theme=cobalt'/>
 </p>
