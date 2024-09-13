@@ -1,4 +1,4 @@
-<h1 align='center'><a href='https://discord.gg/uGbyjKjSJm'><img width=24px' src='https://cdn.discordapp.com/attachments/1270840023368863767/1271998256611852390/wowss.png?ex=66b96030&is=66b80eb0&hm=6854f3a0816f0686cc3c0477a16580b51c63380a58f7c98ff0dd8cc4e25ace59&'/></a> 𝙅𝙖𝙧𝙩𝙖𝙡 <a href='https://discord.gg/uGbyjKjSJm'><img width=24px' src='https://cdn.discordapp.com/attachments/1270840023368863767/1271998256611852390/wowss.png?ex=66b96030&is=66b80eb0&hm=6854f3a0816f0686cc3c0477a16580b51c63380a58f7c98ff0dd8cc4e25ace59&'/></a> </h1>
+<h1 align='center'>𝙅𝙖𝙧𝙩𝙖𝙡</h1>
 <h3 align='center'> Hello there, my name is Jartal and I am a Frontend FiveM Developer. <br> You can check out my scripts <a href='https://discord.gg/uGbyjKjSJm'>here</a> </h3>
 
 <p align='center'>
